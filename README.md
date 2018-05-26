@@ -1,4 +1,4 @@
-# WebDollar-Block-Explorer
+# WebDollar-Block-Explorer [![Build Status](https://travis-ci.org/cbusuioceanu/WebDollar-Block-Explorer.svg?branch=master)](https://travis-ci.org/cbusuioceanu/WebDollar-Block-Explorer)
 Ultra fast block explorer for Terminal use
 
 #### 1. git clone https://github.com/cbusuioceanu/WebDollar-Block-Explorer.git
