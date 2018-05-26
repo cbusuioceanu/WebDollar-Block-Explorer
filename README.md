@@ -1,5 +1,5 @@
 # WebDollar-Block-Explorer
-Ultra fast block explorer
+Ultra fast block explorer for Terminal use
 
 #### 1. git clone https://github.com/cbusuioceanu/WebDollar-Block-Explorer.git
 #### 2. execute: ```sudo su``` then ```bash block_explorer.sh``` or ```./block_explorer.sh```
